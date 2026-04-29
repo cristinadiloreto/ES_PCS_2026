@@ -1,0 +1,1589 @@
+DEBUG: 
+
+Lunghezza del vettore di double: 1
+Tempo di esecuzione Bubble_Sort: 4.97e-09
+Tempo di esecuzione Insertion_Sort: 3.74e-09
+Tempo di esecuzione Selection_Sort: 3.9e-09
+Tempo di esecuzione Merge_Sort: 3.02e-09
+Tempo di esecuzione Quick_Sort: 3.91e-09
+Tempo di esecuzione std::sort(): 4.167e-08
+
+Lunghezza del vettore di double: 2
+Tempo di esecuzione Bubble_Sort: 2.279e-08
+Tempo di esecuzione Insertion_Sort: 2.059e-08
+Tempo di esecuzione Selection_Sort: 2.642e-08
+Tempo di esecuzione Merge_Sort: 1.4829e-07
+Tempo di esecuzione Quick_Sort: 3.164e-08
+Tempo di esecuzione std::sort(): 7.78e-08
+
+Lunghezza del vettore di double: 3
+Tempo di esecuzione Bubble_Sort: 4.671e-08
+Tempo di esecuzione Insertion_Sort: 3.84e-08
+Tempo di esecuzione Selection_Sort: 4.975e-08
+Tempo di esecuzione Merge_Sort: 2.9395e-07
+Tempo di esecuzione Quick_Sort: 5.924e-08
+Tempo di esecuzione std::sort(): 1.1183e-07
+
+Lunghezza del vettore di double: 4
+Tempo di esecuzione Bubble_Sort: 7.607e-08
+Tempo di esecuzione Insertion_Sort: 6.213e-08
+Tempo di esecuzione Selection_Sort: 8.176e-08
+Tempo di esecuzione Merge_Sort: 4.4899e-07
+Tempo di esecuzione Quick_Sort: 9.423e-08
+Tempo di esecuzione std::sort(): 1.4938e-07
+
+Lunghezza del vettore di double: 5
+Tempo di esecuzione Bubble_Sort: 1.1654e-07
+Tempo di esecuzione Insertion_Sort: 9.217e-08
+Tempo di esecuzione Selection_Sort: 1.294e-07
+Tempo di esecuzione Merge_Sort: 9.482e-07
+Tempo di esecuzione Quick_Sort: 2.0689e-07
+Tempo di esecuzione std::sort(): 3.0312e-07
+
+Lunghezza del vettore di double: 6
+Tempo di esecuzione Bubble_Sort: 5.3655e-07
+Tempo di esecuzione Insertion_Sort: 3.7332e-07
+Tempo di esecuzione Selection_Sort: 5.8962e-07
+Tempo di esecuzione Merge_Sort: 2.5042e-06
+Tempo di esecuzione Quick_Sort: 5.6366e-07
+Tempo di esecuzione std::sort(): 7.9415e-07
+
+Lunghezza del vettore di double: 7
+Tempo di esecuzione Bubble_Sort: 3.14485e-06
+Tempo di esecuzione Insertion_Sort: 5.0604e-07
+Tempo di esecuzione Selection_Sort: 1.06915e-06
+Tempo di esecuzione Merge_Sort: 3.03052e-06
+Tempo di esecuzione Quick_Sort: 7.0918e-07
+Tempo di esecuzione std::sort(): 9.1897e-07
+
+Lunghezza del vettore di double: 8
+Tempo di esecuzione Bubble_Sort: 1.18808e-06
+Tempo di esecuzione Insertion_Sort: 6.0194e-07
+Tempo di esecuzione Selection_Sort: 1.0471e-06
+Tempo di esecuzione Merge_Sort: 3.80045e-06
+Tempo di esecuzione Quick_Sort: 1.05729e-06
+Tempo di esecuzione std::sort(): 1.3526e-06
+
+Lunghezza del vettore di double: 9
+Tempo di esecuzione Bubble_Sort: 1.1953e-06
+Tempo di esecuzione Insertion_Sort: 6.445e-07
+Tempo di esecuzione Selection_Sort: 1.19984e-06
+Tempo di esecuzione Merge_Sort: 4.22151e-06
+Tempo di esecuzione Quick_Sort: 1.11788e-06
+Tempo di esecuzione std::sort(): 1.26636e-06
+
+Lunghezza del vettore di double: 10
+Tempo di esecuzione Bubble_Sort: 1.43214e-06
+Tempo di esecuzione Insertion_Sort: 7.8768e-07
+Tempo di esecuzione Selection_Sort: 1.56202e-06
+Tempo di esecuzione Merge_Sort: 6.97647e-06
+Tempo di esecuzione Quick_Sort: 1.07204e-06
+Tempo di esecuzione std::sort(): 1.39653e-06
+
+Lunghezza del vettore di double: 11
+Tempo di esecuzione Bubble_Sort: 1.55896e-06
+Tempo di esecuzione Insertion_Sort: 7.8861e-07
+Tempo di esecuzione Selection_Sort: 1.49847e-06
+Tempo di esecuzione Merge_Sort: 4.77528e-06
+Tempo di esecuzione Quick_Sort: 1.19338e-06
+Tempo di esecuzione std::sort(): 1.45589e-06
+
+Lunghezza del vettore di double: 12
+Tempo di esecuzione Bubble_Sort: 1.76524e-06
+Tempo di esecuzione Insertion_Sort: 8.7416e-07
+Tempo di esecuzione Selection_Sort: 1.61907e-06
+Tempo di esecuzione Merge_Sort: 9.52682e-06
+Tempo di esecuzione Quick_Sort: 1.97385e-06
+Tempo di esecuzione std::sort(): 4.46536e-06
+
+Lunghezza del vettore di double: 13
+Tempo di esecuzione Bubble_Sort: 1.02316e-05
+Tempo di esecuzione Insertion_Sort: 8.9136e-07
+Tempo di esecuzione Selection_Sort: 1.67217e-06
+Tempo di esecuzione Merge_Sort: 5.80937e-06
+Tempo di esecuzione Quick_Sort: 1.44765e-06
+Tempo di esecuzione std::sort(): 1.46274e-06
+
+Lunghezza del vettore di double: 14
+Tempo di esecuzione Bubble_Sort: 2.89371e-06
+Tempo di esecuzione Insertion_Sort: 9.2673e-07
+Tempo di esecuzione Selection_Sort: 1.84132e-06
+Tempo di esecuzione Merge_Sort: 4.66382e-06
+Tempo di esecuzione Quick_Sort: 5.6765e-07
+Tempo di esecuzione std::sort(): 7.5332e-07
+
+Lunghezza del vettore di double: 15
+Tempo di esecuzione Bubble_Sort: 1.02246e-06
+Tempo di esecuzione Insertion_Sort: 4.9379e-07
+Tempo di esecuzione Selection_Sort: 1.0923e-06
+Tempo di esecuzione Merge_Sort: 7.36329e-06
+Tempo di esecuzione Quick_Sort: 1.47324e-06
+Tempo di esecuzione std::sort(): 5.29404e-06
+
+Lunghezza del vettore di double: 16
+Tempo di esecuzione Bubble_Sort: 3.05903e-06
+Tempo di esecuzione Insertion_Sort: 1.1043e-06
+Tempo di esecuzione Selection_Sort: 4.71417e-06
+Tempo di esecuzione Merge_Sort: 6.6739e-06
+Tempo di esecuzione Quick_Sort: 1.51926e-06
+Tempo di esecuzione std::sort(): 1.84882e-06
+
+Lunghezza del vettore di double: 17
+Tempo di esecuzione Bubble_Sort: 4.39194e-06
+Tempo di esecuzione Insertion_Sort: 1.96271e-06
+Tempo di esecuzione Selection_Sort: 3.2578e-06
+Tempo di esecuzione Merge_Sort: 7.77394e-06
+Tempo di esecuzione Quick_Sort: 2.32981e-06
+Tempo di esecuzione std::sort(): 2.51386e-06
+
+Lunghezza del vettore di double: 18
+Tempo di esecuzione Bubble_Sort: 2.92434e-06
+Tempo di esecuzione Insertion_Sort: 1.10759e-06
+Tempo di esecuzione Selection_Sort: 2.54568e-06
+Tempo di esecuzione Merge_Sort: 7.20569e-06
+Tempo di esecuzione Quick_Sort: 7.6161e-07
+Tempo di esecuzione std::sort(): 9.9506e-07
+
+Lunghezza del vettore di double: 19
+Tempo di esecuzione Bubble_Sort: 1.58854e-06
+Tempo di esecuzione Insertion_Sort: 5.8614e-07
+Tempo di esecuzione Selection_Sort: 1.21494e-06
+Tempo di esecuzione Merge_Sort: 2.99223e-06
+Tempo di esecuzione Quick_Sort: 7.8721e-07
+Tempo di esecuzione std::sort(): 1.14203e-06
+
+Lunghezza del vettore di double: 20
+Tempo di esecuzione Bubble_Sort: 1.6269e-06
+Tempo di esecuzione Insertion_Sort: 6.9687e-07
+Tempo di esecuzione Selection_Sort: 1.31474e-06
+Tempo di esecuzione Merge_Sort: 4.32124e-06
+Tempo di esecuzione Quick_Sort: 9.5943e-07
+Tempo di esecuzione std::sort(): 1.25055e-06
+
+Lunghezza del vettore di double: 21
+Tempo di esecuzione Bubble_Sort: 2.24691e-06
+Tempo di esecuzione Insertion_Sort: 6.8116e-07
+Tempo di esecuzione Selection_Sort: 1.46961e-06
+Tempo di esecuzione Merge_Sort: 3.43301e-06
+Tempo di esecuzione Quick_Sort: 1.19652e-06
+Tempo di esecuzione std::sort(): 1.39139e-06
+
+Lunghezza del vettore di double: 22
+Tempo di esecuzione Bubble_Sort: 2.12387e-06
+Tempo di esecuzione Insertion_Sort: 7.9811e-07
+Tempo di esecuzione Selection_Sort: 1.91409e-06
+Tempo di esecuzione Merge_Sort: 5.60673e-06
+Tempo di esecuzione Quick_Sort: 1.29248e-06
+Tempo di esecuzione std::sort(): 1.90858e-06
+
+Lunghezza del vettore di double: 23
+Tempo di esecuzione Bubble_Sort: 2.34528e-06
+Tempo di esecuzione Insertion_Sort: 8.1381e-07
+Tempo di esecuzione Selection_Sort: 1.74033e-06
+Tempo di esecuzione Merge_Sort: 3.76882e-06
+Tempo di esecuzione Quick_Sort: 9.8777e-07
+Tempo di esecuzione std::sort(): 1.45858e-06
+
+Lunghezza del vettore di double: 24
+Tempo di esecuzione Bubble_Sort: 2.41497e-06
+Tempo di esecuzione Insertion_Sort: 8.1603e-07
+Tempo di esecuzione Selection_Sort: 1.89434e-06
+Tempo di esecuzione Merge_Sort: 3.93964e-06
+Tempo di esecuzione Quick_Sort: 1.06136e-06
+Tempo di esecuzione std::sort(): 1.52078e-06
+
+Lunghezza del vettore di double: 25
+Tempo di esecuzione Bubble_Sort: 2.66576e-06
+Tempo di esecuzione Insertion_Sort: 9.1727e-07
+Tempo di esecuzione Selection_Sort: 1.85649e-06
+Tempo di esecuzione Merge_Sort: 4.07689e-06
+Tempo di esecuzione Quick_Sort: 1.14309e-06
+Tempo di esecuzione std::sort(): 1.60033e-06
+
+Lunghezza del vettore di double: 26
+Tempo di esecuzione Bubble_Sort: 3.05964e-06
+Tempo di esecuzione Insertion_Sort: 1.02231e-06
+Tempo di esecuzione Selection_Sort: 2.3294e-06
+Tempo di esecuzione Merge_Sort: 4.92406e-06
+Tempo di esecuzione Quick_Sort: 1.68142e-06
+Tempo di esecuzione std::sort(): 2.13608e-06
+
+Lunghezza del vettore di double: 27
+Tempo di esecuzione Bubble_Sort: 3.40446e-06
+Tempo di esecuzione Insertion_Sort: 1.24334e-06
+Tempo di esecuzione Selection_Sort: 2.81538e-06
+Tempo di esecuzione Merge_Sort: 5.30867e-06
+Tempo di esecuzione Quick_Sort: 1.52388e-06
+Tempo di esecuzione std::sort(): 2.12116e-06
+
+Lunghezza del vettore di double: 28
+Tempo di esecuzione Bubble_Sort: 3.61836e-06
+Tempo di esecuzione Insertion_Sort: 1.16643e-06
+Tempo di esecuzione Selection_Sort: 2.36613e-06
+Tempo di esecuzione Merge_Sort: 5.55122e-06
+Tempo di esecuzione Quick_Sort: 1.39932e-06
+Tempo di esecuzione std::sort(): 1.80146e-06
+
+Lunghezza del vettore di double: 29
+Tempo di esecuzione Bubble_Sort: 3.78044e-06
+Tempo di esecuzione Insertion_Sort: 1.26569e-06
+Tempo di esecuzione Selection_Sort: 3.10477e-06
+Tempo di esecuzione Merge_Sort: 4.97551e-06
+Tempo di esecuzione Quick_Sort: 1.30861e-06
+Tempo di esecuzione std::sort(): 1.91218e-06
+
+Lunghezza del vettore di double: 30
+Tempo di esecuzione Bubble_Sort: 3.78061e-06
+Tempo di esecuzione Insertion_Sort: 1.20939e-06
+Tempo di esecuzione Selection_Sort: 2.74177e-06
+Tempo di esecuzione Merge_Sort: 5.6753e-06
+Tempo di esecuzione Quick_Sort: 1.54267e-06
+Tempo di esecuzione std::sort(): 2.03089e-06
+
+Lunghezza del vettore di double: 31
+Tempo di esecuzione Bubble_Sort: 4.51061e-06
+Tempo di esecuzione Insertion_Sort: 1.3954e-06
+Tempo di esecuzione Selection_Sort: 3.951e-06
+Tempo di esecuzione Merge_Sort: 5.17736e-06
+Tempo di esecuzione Quick_Sort: 1.63737e-06
+Tempo di esecuzione std::sort(): 2.12924e-06
+
+Lunghezza del vettore di double: 32
+Tempo di esecuzione Bubble_Sort: 6.24556e-06
+Tempo di esecuzione Insertion_Sort: 1.4109e-06
+Tempo di esecuzione Selection_Sort: 4.1282e-06
+Tempo di esecuzione Merge_Sort: 7.40047e-06
+Tempo di esecuzione Quick_Sort: 1.682e-06
+Tempo di esecuzione std::sort(): 2.35506e-06
+
+Lunghezza del vettore di double: 33
+Tempo di esecuzione Bubble_Sort: 5.52208e-06
+Tempo di esecuzione Insertion_Sort: 1.53236e-06
+Tempo di esecuzione Selection_Sort: 4.38491e-06
+Tempo di esecuzione Merge_Sort: 6.70097e-06
+Tempo di esecuzione Quick_Sort: 1.75755e-06
+Tempo di esecuzione std::sort(): 5.59596e-06
+
+Lunghezza del vettore di double: 34
+Tempo di esecuzione Bubble_Sort: 5.83503e-06
+Tempo di esecuzione Insertion_Sort: 1.80718e-06
+Tempo di esecuzione Selection_Sort: 4.23818e-06
+Tempo di esecuzione Merge_Sort: 6.79817e-06
+Tempo di esecuzione Quick_Sort: 1.82142e-06
+Tempo di esecuzione std::sort(): 2.52898e-06
+
+Lunghezza del vettore di double: 35
+Tempo di esecuzione Bubble_Sort: 5.14027e-06
+Tempo di esecuzione Insertion_Sort: 1.75805e-06
+Tempo di esecuzione Selection_Sort: 3.40011e-06
+Tempo di esecuzione Merge_Sort: 9.82672e-06
+Tempo di esecuzione Quick_Sort: 2.60472e-06
+Tempo di esecuzione std::sort(): 3.15315e-06
+
+Lunghezza del vettore di double: 36
+Tempo di esecuzione Bubble_Sort: 5.75467e-06
+Tempo di esecuzione Insertion_Sort: 1.80122e-06
+Tempo di esecuzione Selection_Sort: 3.80168e-06
+Tempo di esecuzione Merge_Sort: 6.50244e-06
+Tempo di esecuzione Quick_Sort: 1.77192e-06
+Tempo di esecuzione std::sort(): 2.48982e-06
+
+Lunghezza del vettore di double: 37
+Tempo di esecuzione Bubble_Sort: 5.81746e-06
+Tempo di esecuzione Insertion_Sort: 1.81377e-06
+Tempo di esecuzione Selection_Sort: 3.89158e-06
+Tempo di esecuzione Merge_Sort: 7.05104e-06
+Tempo di esecuzione Quick_Sort: 1.96776e-06
+Tempo di esecuzione std::sort(): 2.51935e-06
+
+Lunghezza del vettore di double: 38
+Tempo di esecuzione Bubble_Sort: 5.97168e-06
+Tempo di esecuzione Insertion_Sort: 1.9406e-06
+Tempo di esecuzione Selection_Sort: 3.78012e-06
+Tempo di esecuzione Merge_Sort: 6.48363e-06
+Tempo di esecuzione Quick_Sort: 1.98451e-06
+Tempo di esecuzione std::sort(): 2.58381e-06
+
+Lunghezza del vettore di double: 39
+Tempo di esecuzione Bubble_Sort: 8.06354e-06
+Tempo di esecuzione Insertion_Sort: 2.78264e-06
+Tempo di esecuzione Selection_Sort: 4.94605e-06
+Tempo di esecuzione Merge_Sort: 7.89524e-06
+Tempo di esecuzione Quick_Sort: 2.75096e-06
+Tempo di esecuzione std::sort(): 3.65174e-06
+
+Lunghezza del vettore di double: 40
+Tempo di esecuzione Bubble_Sort: 6.71261e-06
+Tempo di esecuzione Insertion_Sort: 2.09964e-06
+Tempo di esecuzione Selection_Sort: 4.59027e-06
+Tempo di esecuzione Merge_Sort: 7.09676e-06
+Tempo di esecuzione Quick_Sort: 1.98854e-06
+Tempo di esecuzione std::sort(): 2.73381e-06
+
+Lunghezza del vettore di double: 41
+Tempo di esecuzione Bubble_Sort: 7.04654e-06
+Tempo di esecuzione Insertion_Sort: 2.06052e-06
+Tempo di esecuzione Selection_Sort: 4.47461e-06
+Tempo di esecuzione Merge_Sort: 7.62172e-06
+Tempo di esecuzione Quick_Sort: 2.19912e-06
+Tempo di esecuzione std::sort(): 2.87715e-06
+
+Lunghezza del vettore di double: 42
+Tempo di esecuzione Bubble_Sort: 7.59292e-06
+Tempo di esecuzione Insertion_Sort: 2.3878e-06
+Tempo di esecuzione Selection_Sort: 4.47826e-06
+Tempo di esecuzione Merge_Sort: 7.9478e-06
+Tempo di esecuzione Quick_Sort: 2.31395e-06
+Tempo di esecuzione std::sort(): 3.24889e-06
+
+Lunghezza del vettore di double: 43
+Tempo di esecuzione Bubble_Sort: 7.61873e-06
+Tempo di esecuzione Insertion_Sort: 2.2194e-06
+Tempo di esecuzione Selection_Sort: 4.63264e-06
+Tempo di esecuzione Merge_Sort: 7.6306e-06
+Tempo di esecuzione Quick_Sort: 2.27468e-06
+Tempo di esecuzione std::sort(): 3.0912e-06
+
+Lunghezza del vettore di double: 44
+Tempo di esecuzione Bubble_Sort: 7.98887e-06
+Tempo di esecuzione Insertion_Sort: 2.53893e-06
+Tempo di esecuzione Selection_Sort: 4.85389e-06
+Tempo di esecuzione Merge_Sort: 8.69652e-06
+Tempo di esecuzione Quick_Sort: 2.24586e-06
+Tempo di esecuzione std::sort(): 3.42182e-06
+
+Lunghezza del vettore di double: 45
+Tempo di esecuzione Bubble_Sort: 8.64768e-06
+Tempo di esecuzione Insertion_Sort: 2.82441e-06
+Tempo di esecuzione Selection_Sort: 5.97663e-06
+Tempo di esecuzione Merge_Sort: 8.12029e-06
+Tempo di esecuzione Quick_Sort: 2.47086e-06
+Tempo di esecuzione std::sort(): 3.21141e-06
+
+Lunghezza del vettore di double: 46
+Tempo di esecuzione Bubble_Sort: 8.50517e-06
+Tempo di esecuzione Insertion_Sort: 2.71173e-06
+Tempo di esecuzione Selection_Sort: 4.91456e-06
+Tempo di esecuzione Merge_Sort: 8.05508e-06
+Tempo di esecuzione Quick_Sort: 2.35609e-06
+Tempo di esecuzione std::sort(): 3.49632e-06
+
+Lunghezza del vettore di double: 47
+Tempo di esecuzione Bubble_Sort: 8.63716e-06
+Tempo di esecuzione Insertion_Sort: 2.46114e-06
+Tempo di esecuzione Selection_Sort: 5.26588e-06
+Tempo di esecuzione Merge_Sort: 8.91447e-06
+Tempo di esecuzione Quick_Sort: 2.48719e-06
+Tempo di esecuzione std::sort(): 3.57975e-06
+
+Lunghezza del vettore di double: 48
+Tempo di esecuzione Bubble_Sort: 9.42839e-06
+Tempo di esecuzione Insertion_Sort: 2.75721e-06
+Tempo di esecuzione Selection_Sort: 5.51763e-06
+Tempo di esecuzione Merge_Sort: 8.67045e-06
+Tempo di esecuzione Quick_Sort: 2.56505e-06
+Tempo di esecuzione std::sort(): 3.85214e-06
+
+Lunghezza del vettore di double: 49
+Tempo di esecuzione Bubble_Sort: 1.06607e-05
+Tempo di esecuzione Insertion_Sort: 3.2038e-06
+Tempo di esecuzione Selection_Sort: 6.40355e-06
+Tempo di esecuzione Merge_Sort: 8.77749e-06
+Tempo di esecuzione Quick_Sort: 2.54244e-06
+Tempo di esecuzione std::sort(): 3.79685e-06
+
+Lunghezza del vettore di double: 50
+Tempo di esecuzione Bubble_Sort: 1.08264e-05
+Tempo di esecuzione Insertion_Sort: 3.49858e-06
+Tempo di esecuzione Selection_Sort: 6.55985e-06
+Tempo di esecuzione Merge_Sort: 1.03334e-05
+Tempo di esecuzione Quick_Sort: 2.95164e-06
+Tempo di esecuzione std::sort(): 3.86721e-06
+
+Lunghezza del vettore di double: 51
+Tempo di esecuzione Bubble_Sort: 1.14104e-05
+Tempo di esecuzione Insertion_Sort: 3.05031e-06
+Tempo di esecuzione Selection_Sort: 9.39341e-06
+Tempo di esecuzione Merge_Sort: 9.80168e-06
+Tempo di esecuzione Quick_Sort: 3.02086e-06
+Tempo di esecuzione std::sort(): 4.30784e-06
+
+Lunghezza del vettore di double: 52
+Tempo di esecuzione Bubble_Sort: 1.36852e-05
+Tempo di esecuzione Insertion_Sort: 3.28195e-06
+Tempo di esecuzione Selection_Sort: 8.35214e-06
+Tempo di esecuzione Merge_Sort: 1.44435e-05
+Tempo di esecuzione Quick_Sort: 3.83922e-06
+Tempo di esecuzione std::sort(): 4.07408e-06
+
+Lunghezza del vettore di double: 53
+Tempo di esecuzione Bubble_Sort: 1.1936e-05
+Tempo di esecuzione Insertion_Sort: 3.12877e-06
+Tempo di esecuzione Selection_Sort: 6.48102e-06
+Tempo di esecuzione Merge_Sort: 1.03708e-05
+Tempo di esecuzione Quick_Sort: 2.93572e-06
+Tempo di esecuzione std::sort(): 4.01468e-06
+
+Lunghezza del vettore di double: 54
+Tempo di esecuzione Bubble_Sort: 1.42017e-05
+Tempo di esecuzione Insertion_Sort: 3.33733e-06
+Tempo di esecuzione Selection_Sort: 7.06298e-06
+Tempo di esecuzione Merge_Sort: 9.70311e-06
+Tempo di esecuzione Quick_Sort: 2.92915e-06
+Tempo di esecuzione std::sort(): 4.00658e-06
+
+Lunghezza del vettore di double: 55
+Tempo di esecuzione Bubble_Sort: 1.11323e-05
+Tempo di esecuzione Insertion_Sort: 3.3838e-06
+Tempo di esecuzione Selection_Sort: 6.96372e-06
+Tempo di esecuzione Merge_Sort: 1.56997e-05
+Tempo di esecuzione Quick_Sort: 3.70608e-06
+Tempo di esecuzione std::sort(): 4.63201e-06
+
+Lunghezza del vettore di double: 56
+Tempo di esecuzione Bubble_Sort: 1.63209e-05
+Tempo di esecuzione Insertion_Sort: 3.58141e-06
+Tempo di esecuzione Selection_Sort: 7.12802e-06
+Tempo di esecuzione Merge_Sort: 1.07267e-05
+Tempo di esecuzione Quick_Sort: 3.10558e-06
+Tempo di esecuzione std::sort(): 4.22419e-06
+
+Lunghezza del vettore di double: 57
+Tempo di esecuzione Bubble_Sort: 1.19808e-05
+Tempo di esecuzione Insertion_Sort: 3.43192e-06
+Tempo di esecuzione Selection_Sort: 7.47824e-06
+Tempo di esecuzione Merge_Sort: 1.02167e-05
+Tempo di esecuzione Quick_Sort: 3.08451e-06
+Tempo di esecuzione std::sort(): 4.38607e-06
+
+Lunghezza del vettore di double: 58
+Tempo di esecuzione Bubble_Sort: 1.24802e-05
+Tempo di esecuzione Insertion_Sort: 3.72569e-06
+Tempo di esecuzione Selection_Sort: 8.09902e-06
+Tempo di esecuzione Merge_Sort: 1.23409e-05
+Tempo di esecuzione Quick_Sort: 3.5415e-06
+Tempo di esecuzione std::sort(): 4.56305e-06
+
+Lunghezza del vettore di double: 59
+Tempo di esecuzione Bubble_Sort: 1.36143e-05
+Tempo di esecuzione Insertion_Sort: 3.711e-06
+Tempo di esecuzione Selection_Sort: 8.65755e-06
+Tempo di esecuzione Merge_Sort: 1.10482e-05
+Tempo di esecuzione Quick_Sort: 3.2598e-06
+Tempo di esecuzione std::sort(): 4.33851e-06
+
+Lunghezza del vettore di double: 60
+Tempo di esecuzione Bubble_Sort: 1.36856e-05
+Tempo di esecuzione Insertion_Sort: 3.83806e-06
+Tempo di esecuzione Selection_Sort: 8.00398e-06
+Tempo di esecuzione Merge_Sort: 1.17772e-05
+Tempo di esecuzione Quick_Sort: 3.31588e-06
+Tempo di esecuzione std::sort(): 4.52438e-06
+
+Lunghezza del vettore di double: 61
+Tempo di esecuzione Bubble_Sort: 1.44996e-05
+Tempo di esecuzione Insertion_Sort: 3.92787e-06
+Tempo di esecuzione Selection_Sort: 8.3703e-06
+Tempo di esecuzione Merge_Sort: 1.08464e-05
+Tempo di esecuzione Quick_Sort: 3.35299e-06
+Tempo di esecuzione std::sort(): 4.82905e-06
+
+Lunghezza del vettore di double: 62
+Tempo di esecuzione Bubble_Sort: 2.24326e-05
+Tempo di esecuzione Insertion_Sort: 5.55198e-06
+Tempo di esecuzione Selection_Sort: 8.79935e-06
+Tempo di esecuzione Merge_Sort: 1.52702e-05
+Tempo di esecuzione Quick_Sort: 5.74464e-06
+Tempo di esecuzione std::sort(): 6.74181e-06
+
+Lunghezza del vettore di double: 63
+Tempo di esecuzione Bubble_Sort: 2.01008e-05
+Tempo di esecuzione Insertion_Sort: 5.39684e-06
+Tempo di esecuzione Selection_Sort: 9.95096e-06
+Tempo di esecuzione Merge_Sort: 1.33949e-05
+Tempo di esecuzione Quick_Sort: 3.50872e-06
+Tempo di esecuzione std::sort(): 4.87299e-06
+
+Lunghezza del vettore di double: 64
+Tempo di esecuzione Bubble_Sort: 1.57456e-05
+Tempo di esecuzione Insertion_Sort: 4.56364e-06
+Tempo di esecuzione Selection_Sort: 1.42945e-05
+Tempo di esecuzione Merge_Sort: 1.68767e-05
+Tempo di esecuzione Quick_Sort: 3.81484e-06
+Tempo di esecuzione std::sort(): 6.20511e-06
+
+Lunghezza del vettore di double: 65
+Tempo di esecuzione Bubble_Sort: 1.80013e-05
+Tempo di esecuzione Insertion_Sort: 4.39694e-06
+Tempo di esecuzione Selection_Sort: 9.04982e-06
+Tempo di esecuzione Merge_Sort: 1.27646e-05
+Tempo di esecuzione Quick_Sort: 3.59574e-06
+Tempo di esecuzione std::sort(): 5.14347e-06
+
+Lunghezza del vettore di double: 66
+Tempo di esecuzione Bubble_Sort: 1.5605e-05
+Tempo di esecuzione Insertion_Sort: 4.48348e-06
+Tempo di esecuzione Selection_Sort: 9.24785e-06
+Tempo di esecuzione Merge_Sort: 1.24986e-05
+Tempo di esecuzione Quick_Sort: 3.98844e-06
+Tempo di esecuzione std::sort(): 5.19528e-06
+
+Lunghezza del vettore di double: 67
+Tempo di esecuzione Bubble_Sort: 1.66499e-05
+Tempo di esecuzione Insertion_Sort: 4.56474e-06
+Tempo di esecuzione Selection_Sort: 9.80276e-06
+Tempo di esecuzione Merge_Sort: 1.28415e-05
+Tempo di esecuzione Quick_Sort: 3.84345e-06
+Tempo di esecuzione std::sort(): 5.20202e-06
+
+Lunghezza del vettore di double: 68
+Tempo di esecuzione Bubble_Sort: 1.55593e-05
+Tempo di esecuzione Insertion_Sort: 4.58994e-06
+Tempo di esecuzione Selection_Sort: 9.88571e-06
+Tempo di esecuzione Merge_Sort: 1.29496e-05
+Tempo di esecuzione Quick_Sort: 3.79914e-06
+Tempo di esecuzione std::sort(): 5.18546e-06
+
+Lunghezza del vettore di double: 69
+Tempo di esecuzione Bubble_Sort: 1.73469e-05
+Tempo di esecuzione Insertion_Sort: 5.0206e-06
+Tempo di esecuzione Selection_Sort: 1.2036e-05
+Tempo di esecuzione Merge_Sort: 1.88488e-05
+Tempo di esecuzione Quick_Sort: 4.26017e-06
+Tempo di esecuzione std::sort(): 7.2123e-06
+
+Lunghezza del vettore di double: 70
+Tempo di esecuzione Bubble_Sort: 1.79908e-05
+Tempo di esecuzione Insertion_Sort: 5.11121e-06
+Tempo di esecuzione Selection_Sort: 1.01964e-05
+Tempo di esecuzione Merge_Sort: 1.45359e-05
+Tempo di esecuzione Quick_Sort: 3.95698e-06
+Tempo di esecuzione std::sort(): 6.60047e-06
+
+Lunghezza del vettore di double: 71
+Tempo di esecuzione Bubble_Sort: 2.0582e-05
+Tempo di esecuzione Insertion_Sort: 5.46022e-06
+Tempo di esecuzione Selection_Sort: 1.05317e-05
+Tempo di esecuzione Merge_Sort: 1.32502e-05
+Tempo di esecuzione Quick_Sort: 4.16228e-06
+Tempo di esecuzione std::sort(): 5.72612e-06
+
+Lunghezza del vettore di double: 72
+Tempo di esecuzione Bubble_Sort: 1.82473e-05
+Tempo di esecuzione Insertion_Sort: 8.95255e-06
+Tempo di esecuzione Selection_Sort: 1.11091e-05
+Tempo di esecuzione Merge_Sort: 1.34968e-05
+Tempo di esecuzione Quick_Sort: 4.42768e-06
+Tempo di esecuzione std::sort(): 5.98428e-06
+
+Lunghezza del vettore di double: 73
+Tempo di esecuzione Bubble_Sort: 1.934e-05
+Tempo di esecuzione Insertion_Sort: 5.36924e-06
+Tempo di esecuzione Selection_Sort: 1.08892e-05
+Tempo di esecuzione Merge_Sort: 1.78653e-05
+Tempo di esecuzione Quick_Sort: 5.94376e-06
+Tempo di esecuzione std::sort(): 6.60188e-06
+
+Lunghezza del vettore di double: 74
+Tempo di esecuzione Bubble_Sort: 2.37264e-05
+Tempo di esecuzione Insertion_Sort: 6.06308e-06
+Tempo di esecuzione Selection_Sort: 1.1706e-05
+Tempo di esecuzione Merge_Sort: 1.40875e-05
+Tempo di esecuzione Quick_Sort: 4.43666e-06
+Tempo di esecuzione std::sort(): 6.46739e-06
+
+Lunghezza del vettore di double: 75
+Tempo di esecuzione Bubble_Sort: 2.1013e-05
+Tempo di esecuzione Insertion_Sort: 5.73606e-06
+Tempo di esecuzione Selection_Sort: 1.18674e-05
+Tempo di esecuzione Merge_Sort: 1.41289e-05
+Tempo di esecuzione Quick_Sort: 4.30897e-06
+Tempo di esecuzione std::sort(): 5.9598e-06
+
+Lunghezza del vettore di double: 76
+Tempo di esecuzione Bubble_Sort: 3.43974e-05
+Tempo di esecuzione Insertion_Sort: 8.95756e-06
+Tempo di esecuzione Selection_Sort: 1.28817e-05
+Tempo di esecuzione Merge_Sort: 1.55765e-05
+Tempo di esecuzione Quick_Sort: 4.53033e-06
+Tempo di esecuzione std::sort(): 6.05224e-06
+
+Lunghezza del vettore di double: 77
+Tempo di esecuzione Bubble_Sort: 2.01719e-05
+Tempo di esecuzione Insertion_Sort: 5.85726e-06
+Tempo di esecuzione Selection_Sort: 1.20891e-05
+Tempo di esecuzione Merge_Sort: 1.48088e-05
+Tempo di esecuzione Quick_Sort: 4.58777e-06
+Tempo di esecuzione std::sort(): 6.28357e-06
+
+Lunghezza del vettore di double: 78
+Tempo di esecuzione Bubble_Sort: 2.42247e-05
+Tempo di esecuzione Insertion_Sort: 6.77258e-06
+Tempo di esecuzione Selection_Sort: 1.27303e-05
+Tempo di esecuzione Merge_Sort: 1.77777e-05
+Tempo di esecuzione Quick_Sort: 4.92481e-06
+Tempo di esecuzione std::sort(): 6.36466e-06
+
+Lunghezza del vettore di double: 79
+Tempo di esecuzione Bubble_Sort: 2.1637e-05
+Tempo di esecuzione Insertion_Sort: 5.99019e-06
+Tempo di esecuzione Selection_Sort: 1.27549e-05
+Tempo di esecuzione Merge_Sort: 1.57744e-05
+Tempo di esecuzione Quick_Sort: 4.5286e-06
+Tempo di esecuzione std::sort(): 6.3069e-06
+
+Lunghezza del vettore di double: 80
+Tempo di esecuzione Bubble_Sort: 2.66203e-05
+Tempo di esecuzione Insertion_Sort: 7.78211e-06
+Tempo di esecuzione Selection_Sort: 1.65582e-05
+Tempo di esecuzione Merge_Sort: 1.5206e-05
+Tempo di esecuzione Quick_Sort: 4.71471e-06
+Tempo di esecuzione std::sort(): 6.44548e-06
+
+Lunghezza del vettore di double: 81
+Tempo di esecuzione Bubble_Sort: 3.73884e-05
+Tempo di esecuzione Insertion_Sort: 6.39178e-06
+Tempo di esecuzione Selection_Sort: 1.36254e-05
+Tempo di esecuzione Merge_Sort: 1.67511e-05
+Tempo di esecuzione Quick_Sort: 4.90548e-06
+Tempo di esecuzione std::sort(): 6.59487e-06
+
+Lunghezza del vettore di double: 82
+Tempo di esecuzione Bubble_Sort: 3.06048e-05
+Tempo di esecuzione Insertion_Sort: 9.76434e-06
+Tempo di esecuzione Selection_Sort: 1.38455e-05
+Tempo di esecuzione Merge_Sort: 1.62389e-05
+Tempo di esecuzione Quick_Sort: 5.00952e-06
+Tempo di esecuzione std::sort(): 6.5489e-06
+
+Lunghezza del vettore di double: 83
+Tempo di esecuzione Bubble_Sort: 2.33557e-05
+Tempo di esecuzione Insertion_Sort: 6.78501e-06
+Tempo di esecuzione Selection_Sort: 1.37726e-05
+Tempo di esecuzione Merge_Sort: 1.70112e-05
+Tempo di esecuzione Quick_Sort: 5.11515e-06
+Tempo di esecuzione std::sort(): 6.7673e-06
+
+Lunghezza del vettore di double: 84
+Tempo di esecuzione Bubble_Sort: 2.44819e-05
+Tempo di esecuzione Insertion_Sort: 7.45215e-06
+Tempo di esecuzione Selection_Sort: 1.39825e-05
+Tempo di esecuzione Merge_Sort: 1.57831e-05
+Tempo di esecuzione Quick_Sort: 4.93954e-06
+Tempo di esecuzione std::sort(): 6.87816e-06
+
+Lunghezza del vettore di double: 85
+Tempo di esecuzione Bubble_Sort: 2.40045e-05
+Tempo di esecuzione Insertion_Sort: 6.93499e-06
+Tempo di esecuzione Selection_Sort: 1.41699e-05
+Tempo di esecuzione Merge_Sort: 1.72943e-05
+Tempo di esecuzione Quick_Sort: 5.15083e-06
+Tempo di esecuzione std::sort(): 6.92514e-06
+
+Lunghezza del vettore di double: 86
+Tempo di esecuzione Bubble_Sort: 2.57026e-05
+Tempo di esecuzione Insertion_Sort: 7.29444e-06
+Tempo di esecuzione Selection_Sort: 1.4693e-05
+Tempo di esecuzione Merge_Sort: 1.72844e-05
+Tempo di esecuzione Quick_Sort: 5.25359e-06
+Tempo di esecuzione std::sort(): 7.10188e-06
+
+Lunghezza del vettore di double: 87
+Tempo di esecuzione Bubble_Sort: 2.52946e-05
+Tempo di esecuzione Insertion_Sort: 7.32229e-06
+Tempo di esecuzione Selection_Sort: 1.50894e-05
+Tempo di esecuzione Merge_Sort: 1.78478e-05
+Tempo di esecuzione Quick_Sort: 5.13127e-06
+Tempo di esecuzione std::sort(): 7.24313e-06
+
+Lunghezza del vettore di double: 88
+Tempo di esecuzione Bubble_Sort: 3.12909e-05
+Tempo di esecuzione Insertion_Sort: 7.72318e-06
+Tempo di esecuzione Selection_Sort: 1.52916e-05
+Tempo di esecuzione Merge_Sort: 1.73363e-05
+Tempo di esecuzione Quick_Sort: 5.27266e-06
+Tempo di esecuzione std::sort(): 7.29722e-06
+
+Lunghezza del vettore di double: 89
+Tempo di esecuzione Bubble_Sort: 4.01365e-05
+Tempo di esecuzione Insertion_Sort: 3.10553e-05
+Tempo di esecuzione Selection_Sort: 2.072e-05
+Tempo di esecuzione Merge_Sort: 2.19289e-05
+Tempo di esecuzione Quick_Sort: 5.85134e-06
+Tempo di esecuzione std::sort(): 8.00114e-06
+
+Lunghezza del vettore di double: 90
+Tempo di esecuzione Bubble_Sort: 2.79315e-05
+Tempo di esecuzione Insertion_Sort: 8.33261e-06
+Tempo di esecuzione Selection_Sort: 1.67318e-05
+Tempo di esecuzione Merge_Sort: 1.89536e-05
+Tempo di esecuzione Quick_Sort: 5.31446e-06
+Tempo di esecuzione std::sort(): 7.65141e-06
+
+Lunghezza del vettore di double: 91
+Tempo di esecuzione Bubble_Sort: 3.30191e-05
+Tempo di esecuzione Insertion_Sort: 8.00301e-06
+Tempo di esecuzione Selection_Sort: 1.69358e-05
+Tempo di esecuzione Merge_Sort: 1.75134e-05
+Tempo di esecuzione Quick_Sort: 5.6074e-06
+Tempo di esecuzione std::sort(): 7.50471e-06
+
+Lunghezza del vettore di double: 92
+Tempo di esecuzione Bubble_Sort: 2.8732e-05
+Tempo di esecuzione Insertion_Sort: 8.13126e-06
+Tempo di esecuzione Selection_Sort: 1.68492e-05
+Tempo di esecuzione Merge_Sort: 2.68989e-05
+Tempo di esecuzione Quick_Sort: 5.84108e-06
+Tempo di esecuzione std::sort(): 7.8449e-06
+
+Lunghezza del vettore di double: 93
+Tempo di esecuzione Bubble_Sort: 3.28819e-05
+Tempo di esecuzione Insertion_Sort: 9.32444e-06
+Tempo di esecuzione Selection_Sort: 1.74408e-05
+Tempo di esecuzione Merge_Sort: 1.81506e-05
+Tempo di esecuzione Quick_Sort: 5.77886e-06
+Tempo di esecuzione std::sort(): 7.85982e-06
+
+Lunghezza del vettore di double: 94
+Tempo di esecuzione Bubble_Sort: 3.48916e-05
+Tempo di esecuzione Insertion_Sort: 1.05331e-05
+Tempo di esecuzione Selection_Sort: 1.71954e-05
+Tempo di esecuzione Merge_Sort: 1.94302e-05
+Tempo di esecuzione Quick_Sort: 5.66259e-06
+Tempo di esecuzione std::sort(): 7.86333e-06
+
+Lunghezza del vettore di double: 95
+Tempo di esecuzione Bubble_Sort: 3.24163e-05
+Tempo di esecuzione Insertion_Sort: 9.47625e-06
+Tempo di esecuzione Selection_Sort: 1.76788e-05
+Tempo di esecuzione Merge_Sort: 2.03432e-05
+Tempo di esecuzione Quick_Sort: 6.4466e-06
+Tempo di esecuzione std::sort(): 1.0668e-05
+
+Lunghezza del vettore di double: 96
+Tempo di esecuzione Bubble_Sort: 3.20793e-05
+Tempo di esecuzione Insertion_Sort: 9.55786e-06
+Tempo di esecuzione Selection_Sort: 1.81948e-05
+Tempo di esecuzione Merge_Sort: 1.90777e-05
+Tempo di esecuzione Quick_Sort: 6.36764e-06
+Tempo di esecuzione std::sort(): 8.27717e-06
+
+Lunghezza del vettore di double: 97
+Tempo di esecuzione Bubble_Sort: 3.49574e-05
+Tempo di esecuzione Insertion_Sort: 1.42477e-05
+Tempo di esecuzione Selection_Sort: 2.08356e-05
+Tempo di esecuzione Merge_Sort: 1.83106e-05
+Tempo di esecuzione Quick_Sort: 6.758e-06
+Tempo di esecuzione std::sort(): 7.95458e-06
+
+Lunghezza del vettore di double: 98
+Tempo di esecuzione Bubble_Sort: 3.59103e-05
+Tempo di esecuzione Insertion_Sort: 8.99154e-06
+Tempo di esecuzione Selection_Sort: 1.84468e-05
+Tempo di esecuzione Merge_Sort: 2.80824e-05
+Tempo di esecuzione Quick_Sort: 7.33709e-06
+Tempo di esecuzione std::sort(): 9.58041e-06
+
+Lunghezza del vettore di double: 99
+Tempo di esecuzione Bubble_Sort: 3.36847e-05
+Tempo di esecuzione Insertion_Sort: 9.28843e-06
+Tempo di esecuzione Selection_Sort: 1.89225e-05
+Tempo di esecuzione Merge_Sort: 2.7418e-05
+Tempo di esecuzione Quick_Sort: 6.79241e-06
+Tempo di esecuzione std::sort(): 9.46571e-06
+
+----------------------------------------------------------------
+
+RELEASE: 
+
+Lunghezza del vettore di double: 1
+Tempo di esecuzione Bubble_Sort: 6.54e-09
+Tempo di esecuzione Insertion_Sort: 2.28e-09
+Tempo di esecuzione Selection_Sort: 1.89e-09
+Tempo di esecuzione Merge_Sort: 3.2e-10
+Tempo di esecuzione Quick_Sort: 2.24e-09
+Tempo di esecuzione std::sort(): 4.67e-09
+
+Lunghezza del vettore di double: 2
+Tempo di esecuzione Bubble_Sort: 1.011e-08
+Tempo di esecuzione Insertion_Sort: 1.114e-08
+Tempo di esecuzione Selection_Sort: 1.048e-08
+Tempo di esecuzione Merge_Sort: 6.894e-08
+Tempo di esecuzione Quick_Sort: 1.308e-08
+Tempo di esecuzione std::sort(): 1.409e-08
+
+Lunghezza del vettore di double: 3
+Tempo di esecuzione Bubble_Sort: 3.591e-08
+Tempo di esecuzione Insertion_Sort: 2.714e-08
+Tempo di esecuzione Selection_Sort: 4.137e-08
+Tempo di esecuzione Merge_Sort: 1.3919e-07
+Tempo di esecuzione Quick_Sort: 3.98e-08
+Tempo di esecuzione std::sort(): 2.888e-08
+
+Lunghezza del vettore di double: 4
+Tempo di esecuzione Bubble_Sort: 7.547e-08
+Tempo di esecuzione Insertion_Sort: 5.32e-08
+Tempo di esecuzione Selection_Sort: 7.369e-08
+Tempo di esecuzione Merge_Sort: 2.3794e-07
+Tempo di esecuzione Quick_Sort: 6.503e-08
+Tempo di esecuzione std::sort(): 5.783e-08
+
+Lunghezza del vettore di double: 5
+Tempo di esecuzione Bubble_Sort: 1.1293e-07
+Tempo di esecuzione Insertion_Sort: 6.192e-08
+Tempo di esecuzione Selection_Sort: 1.0352e-07
+Tempo di esecuzione Merge_Sort: 2.9956e-07
+Tempo di esecuzione Quick_Sort: 1.0049e-07
+Tempo di esecuzione std::sort(): 7.925e-08
+
+Lunghezza del vettore di double: 6
+Tempo di esecuzione Bubble_Sort: 1.4642e-07
+Tempo di esecuzione Insertion_Sort: 8.305e-08
+Tempo di esecuzione Selection_Sort: 1.3525e-07
+Tempo di esecuzione Merge_Sort: 4.0752e-07
+Tempo di esecuzione Quick_Sort: 1.2634e-07
+Tempo di esecuzione std::sort(): 9.718e-08
+
+Lunghezza del vettore di double: 7
+Tempo di esecuzione Bubble_Sort: 1.936e-07
+Tempo di esecuzione Insertion_Sort: 1.018e-07
+Tempo di esecuzione Selection_Sort: 1.8317e-07
+Tempo di esecuzione Merge_Sort: 4.3617e-07
+Tempo di esecuzione Quick_Sort: 1.5716e-07
+Tempo di esecuzione std::sort(): 1.1767e-07
+
+Lunghezza del vettore di double: 8
+Tempo di esecuzione Bubble_Sort: 2.438e-07
+Tempo di esecuzione Insertion_Sort: 1.2034e-07
+Tempo di esecuzione Selection_Sort: 2.0697e-07
+Tempo di esecuzione Merge_Sort: 5.3537e-07
+Tempo di esecuzione Quick_Sort: 1.8663e-07
+Tempo di esecuzione std::sort(): 1.2886e-07
+
+Lunghezza del vettore di double: 9
+Tempo di esecuzione Bubble_Sort: 3.0754e-07
+Tempo di esecuzione Insertion_Sort: 1.2408e-07
+Tempo di esecuzione Selection_Sort: 2.5537e-07
+Tempo di esecuzione Merge_Sort: 6.2432e-07
+Tempo di esecuzione Quick_Sort: 2.1615e-07
+Tempo di esecuzione std::sort(): 1.4532e-07
+
+Lunghezza del vettore di double: 10
+Tempo di esecuzione Bubble_Sort: 6.3126e-07
+Tempo di esecuzione Insertion_Sort: 1.6278e-07
+Tempo di esecuzione Selection_Sort: 3.1963e-07
+Tempo di esecuzione Merge_Sort: 6.987e-07
+Tempo di esecuzione Quick_Sort: 2.5815e-07
+Tempo di esecuzione std::sort(): 1.7997e-07
+
+Lunghezza del vettore di double: 11
+Tempo di esecuzione Bubble_Sort: 4.677e-07
+Tempo di esecuzione Insertion_Sort: 1.8253e-07
+Tempo di esecuzione Selection_Sort: 3.5585e-07
+Tempo di esecuzione Merge_Sort: 7.5017e-07
+Tempo di esecuzione Quick_Sort: 2.938e-07
+Tempo di esecuzione std::sort(): 1.8916e-07
+
+Lunghezza del vettore di double: 12
+Tempo di esecuzione Bubble_Sort: 5.2418e-07
+Tempo di esecuzione Insertion_Sort: 1.8816e-07
+Tempo di esecuzione Selection_Sort: 3.6535e-07
+Tempo di esecuzione Merge_Sort: 8.0344e-07
+Tempo di esecuzione Quick_Sort: 3.1468e-07
+Tempo di esecuzione std::sort(): 1.9448e-07
+
+Lunghezza del vettore di double: 13
+Tempo di esecuzione Bubble_Sort: 6.1311e-07
+Tempo di esecuzione Insertion_Sort: 2.005e-07
+Tempo di esecuzione Selection_Sort: 4.2077e-07
+Tempo di esecuzione Merge_Sort: 8.6629e-07
+Tempo di esecuzione Quick_Sort: 3.4486e-07
+Tempo di esecuzione std::sort(): 2.1079e-07
+
+Lunghezza del vettore di double: 14
+Tempo di esecuzione Bubble_Sort: 7.0466e-07
+Tempo di esecuzione Insertion_Sort: 2.12e-07
+Tempo di esecuzione Selection_Sort: 4.744e-07
+Tempo di esecuzione Merge_Sort: 9.4534e-07
+Tempo di esecuzione Quick_Sort: 3.7871e-07
+Tempo di esecuzione std::sort(): 2.2908e-07
+
+Lunghezza del vettore di double: 15
+Tempo di esecuzione Bubble_Sort: 7.964e-07
+Tempo di esecuzione Insertion_Sort: 2.2426e-07
+Tempo di esecuzione Selection_Sort: 5.1479e-07
+Tempo di esecuzione Merge_Sort: 1.15512e-06
+Tempo di esecuzione Quick_Sort: 4.1371e-07
+Tempo di esecuzione std::sort(): 2.7752e-07
+
+Lunghezza del vettore di double: 16
+Tempo di esecuzione Bubble_Sort: 9.2267e-07
+Tempo di esecuzione Insertion_Sort: 2.429e-07
+Tempo di esecuzione Selection_Sort: 5.8354e-07
+Tempo di esecuzione Merge_Sort: 1.24375e-06
+Tempo di esecuzione Quick_Sort: 4.3739e-07
+Tempo di esecuzione std::sort(): 2.6269e-07
+
+Lunghezza del vettore di double: 17
+Tempo di esecuzione Bubble_Sort: 1.02935e-06
+Tempo di esecuzione Insertion_Sort: 2.6454e-07
+Tempo di esecuzione Selection_Sort: 6.3391e-07
+Tempo di esecuzione Merge_Sort: 1.29396e-06
+Tempo di esecuzione Quick_Sort: 4.7969e-07
+Tempo di esecuzione std::sort(): 3.976e-07
+
+Lunghezza del vettore di double: 18
+Tempo di esecuzione Bubble_Sort: 1.12445e-06
+Tempo di esecuzione Insertion_Sort: 2.7849e-07
+Tempo di esecuzione Selection_Sort: 6.8279e-07
+Tempo di esecuzione Merge_Sort: 1.66355e-06
+Tempo di esecuzione Quick_Sort: 5.2382e-07
+Tempo di esecuzione std::sort(): 4.16e-07
+
+Lunghezza del vettore di double: 19
+Tempo di esecuzione Bubble_Sort: 1.26622e-06
+Tempo di esecuzione Insertion_Sort: 2.9557e-07
+Tempo di esecuzione Selection_Sort: 7.4624e-07
+Tempo di esecuzione Merge_Sort: 1.47623e-06
+Tempo di esecuzione Quick_Sort: 5.459e-07
+Tempo di esecuzione std::sort(): 4.4534e-07
+
+Lunghezza del vettore di double: 20
+Tempo di esecuzione Bubble_Sort: 1.39971e-06
+Tempo di esecuzione Insertion_Sort: 3.1385e-07
+Tempo di esecuzione Selection_Sort: 7.9279e-07
+Tempo di esecuzione Merge_Sort: 1.54868e-06
+Tempo di esecuzione Quick_Sort: 5.9807e-07
+Tempo di esecuzione std::sort(): 5.3116e-07
+
+Lunghezza del vettore di double: 21
+Tempo di esecuzione Bubble_Sort: 1.58531e-06
+Tempo di esecuzione Insertion_Sort: 3.5317e-07
+Tempo di esecuzione Selection_Sort: 8.916e-07
+Tempo di esecuzione Merge_Sort: 2.42956e-06
+Tempo di esecuzione Quick_Sort: 8.2772e-07
+Tempo di esecuzione std::sort(): 5.05216e-05
+
+Lunghezza del vettore di double: 22
+Tempo di esecuzione Bubble_Sort: 1.79824e-06
+Tempo di esecuzione Insertion_Sort: 4.1748e-07
+Tempo di esecuzione Selection_Sort: 1.22373e-06
+Tempo di esecuzione Merge_Sort: 2.49164e-06
+Tempo di esecuzione Quick_Sort: 1.48574e-06
+Tempo di esecuzione std::sort(): 7.6062e-07
+
+Lunghezza del vettore di double: 23
+Tempo di esecuzione Bubble_Sort: 2.40939e-06
+Tempo di esecuzione Insertion_Sort: 4.9097e-07
+Tempo di esecuzione Selection_Sort: 1.26073e-06
+Tempo di esecuzione Merge_Sort: 2.6678e-06
+Tempo di esecuzione Quick_Sort: 7.5986e-07
+Tempo di esecuzione std::sort(): 6.1718e-07
+
+Lunghezza del vettore di double: 24
+Tempo di esecuzione Bubble_Sort: 2.02392e-06
+Tempo di esecuzione Insertion_Sort: 4.2964e-07
+Tempo di esecuzione Selection_Sort: 1.11711e-06
+Tempo di esecuzione Merge_Sort: 2.21962e-06
+Tempo di esecuzione Quick_Sort: 7.7481e-07
+Tempo di esecuzione std::sort(): 6.1129e-07
+
+Lunghezza del vettore di double: 25
+Tempo di esecuzione Bubble_Sort: 2.15394e-06
+Tempo di esecuzione Insertion_Sort: 4.4316e-07
+Tempo di esecuzione Selection_Sort: 1.1791e-06
+Tempo di esecuzione Merge_Sort: 2.75692e-06
+Tempo di esecuzione Quick_Sort: 8.004e-07
+Tempo di esecuzione std::sort(): 6.5783e-07
+
+Lunghezza del vettore di double: 26
+Tempo di esecuzione Bubble_Sort: 3.16179e-06
+Tempo di esecuzione Insertion_Sort: 5.0001e-07
+Tempo di esecuzione Selection_Sort: 1.30215e-06
+Tempo di esecuzione Merge_Sort: 2.51614e-06
+Tempo di esecuzione Quick_Sort: 8.6663e-07
+Tempo di esecuzione std::sort(): 6.8488e-07
+
+Lunghezza del vettore di double: 27
+Tempo di esecuzione Bubble_Sort: 2.73297e-06
+Tempo di esecuzione Insertion_Sort: 4.8752e-07
+Tempo di esecuzione Selection_Sort: 1.29219e-06
+Tempo di esecuzione Merge_Sort: 2.5956e-06
+Tempo di esecuzione Quick_Sort: 8.589e-07
+Tempo di esecuzione std::sort(): 7.0754e-07
+
+Lunghezza del vettore di double: 28
+Tempo di esecuzione Bubble_Sort: 2.71306e-06
+Tempo di esecuzione Insertion_Sort: 5.2218e-07
+Tempo di esecuzione Selection_Sort: 1.65155e-06
+Tempo di esecuzione Merge_Sort: 2.76892e-06
+Tempo di esecuzione Quick_Sort: 9.2083e-07
+Tempo di esecuzione std::sort(): 1.16411e-06
+
+Lunghezza del vettore di double: 29
+Tempo di esecuzione Bubble_Sort: 2.82451e-06
+Tempo di esecuzione Insertion_Sort: 5.3005e-07
+Tempo di esecuzione Selection_Sort: 1.69812e-06
+Tempo di esecuzione Merge_Sort: 2.97606e-06
+Tempo di esecuzione Quick_Sort: 9.554e-07
+Tempo di esecuzione std::sort(): 7.7871e-07
+
+Lunghezza del vettore di double: 30
+Tempo di esecuzione Bubble_Sort: 3.26982e-06
+Tempo di esecuzione Insertion_Sort: 5.592e-07
+Tempo di esecuzione Selection_Sort: 1.54099e-06
+Tempo di esecuzione Merge_Sort: 3.00597e-06
+Tempo di esecuzione Quick_Sort: 9.93e-07
+Tempo di esecuzione std::sort(): 8.0218e-07
+
+Lunghezza del vettore di double: 31
+Tempo di esecuzione Bubble_Sort: 3.21409e-06
+Tempo di esecuzione Insertion_Sort: 5.9042e-07
+Tempo di esecuzione Selection_Sort: 1.62532e-06
+Tempo di esecuzione Merge_Sort: 3.44198e-06
+Tempo di esecuzione Quick_Sort: 1.92282e-06
+Tempo di esecuzione std::sort(): 1.13625e-06
+
+Lunghezza del vettore di double: 32
+Tempo di esecuzione Bubble_Sort: 4.8222e-06
+Tempo di esecuzione Insertion_Sort: 8.3601e-07
+Tempo di esecuzione Selection_Sort: 2.27812e-06
+Tempo di esecuzione Merge_Sort: 2.90329e-05
+Tempo di esecuzione Quick_Sort: 2.53898e-06
+Tempo di esecuzione std::sort(): 9.4142e-07
+
+Lunghezza del vettore di double: 33
+Tempo di esecuzione Bubble_Sort: 2.31606e-05
+Tempo di esecuzione Insertion_Sort: 6.5751e-07
+Tempo di esecuzione Selection_Sort: 2.19858e-06
+Tempo di esecuzione Merge_Sort: 5.61774e-06
+Tempo di esecuzione Quick_Sort: 2.08364e-06
+Tempo di esecuzione std::sort(): 9.5166e-07
+
+Lunghezza del vettore di double: 34
+Tempo di esecuzione Bubble_Sort: 3.89302e-06
+Tempo di esecuzione Insertion_Sort: 6.9135e-07
+Tempo di esecuzione Selection_Sort: 1.90968e-06
+Tempo di esecuzione Merge_Sort: 3.76521e-06
+Tempo di esecuzione Quick_Sort: 2.0678e-06
+Tempo di esecuzione std::sort(): 9.826e-07
+
+Lunghezza del vettore di double: 35
+Tempo di esecuzione Bubble_Sort: 4.07921e-06
+Tempo di esecuzione Insertion_Sort: 7.1136e-07
+Tempo di esecuzione Selection_Sort: 1.98753e-06
+Tempo di esecuzione Merge_Sort: 3.58928e-06
+Tempo di esecuzione Quick_Sort: 1.22186e-06
+Tempo di esecuzione std::sort(): 1.04276e-06
+
+Lunghezza del vettore di double: 36
+Tempo di esecuzione Bubble_Sort: 4.30051e-06
+Tempo di esecuzione Insertion_Sort: 7.2839e-07
+Tempo di esecuzione Selection_Sort: 2.06138e-06
+Tempo di esecuzione Merge_Sort: 3.74905e-06
+Tempo di esecuzione Quick_Sort: 1.75963e-06
+Tempo di esecuzione std::sort(): 1.0715e-06
+
+Lunghezza del vettore di double: 37
+Tempo di esecuzione Bubble_Sort: 8.38101e-06
+Tempo di esecuzione Insertion_Sort: 1.01536e-06
+Tempo di esecuzione Selection_Sort: 2.818e-06
+Tempo di esecuzione Merge_Sort: 5.62326e-06
+Tempo di esecuzione Quick_Sort: 1.75827e-06
+Tempo di esecuzione std::sort(): 1.77258e-06
+
+Lunghezza del vettore di double: 38
+Tempo di esecuzione Bubble_Sort: 4.81161e-06
+Tempo di esecuzione Insertion_Sort: 8.0467e-07
+Tempo di esecuzione Selection_Sort: 2.65304e-06
+Tempo di esecuzione Merge_Sort: 4.13843e-06
+Tempo di esecuzione Quick_Sort: 1.34449e-06
+Tempo di esecuzione std::sort(): 1.10955e-06
+
+Lunghezza del vettore di double: 39
+Tempo di esecuzione Bubble_Sort: 5.11148e-06
+Tempo di esecuzione Insertion_Sort: 7.9529e-07
+Tempo di esecuzione Selection_Sort: 4.74558e-06
+Tempo di esecuzione Merge_Sort: 2.70552e-06
+Tempo di esecuzione Quick_Sort: 1.19784e-06
+Tempo di esecuzione std::sort(): 1.98761e-06
+
+Lunghezza del vettore di double: 40
+Tempo di esecuzione Bubble_Sort: 4.02861e-05
+Tempo di esecuzione Insertion_Sort: 2.16786e-06
+Tempo di esecuzione Selection_Sort: 2.91558e-06
+Tempo di esecuzione Merge_Sort: 4.06311e-06
+Tempo di esecuzione Quick_Sort: 1.49673e-06
+Tempo di esecuzione std::sort(): 1.6666e-06
+
+Lunghezza del vettore di double: 41
+Tempo di esecuzione Bubble_Sort: 6.55767e-06
+Tempo di esecuzione Insertion_Sort: 8.8261e-07
+Tempo di esecuzione Selection_Sort: 2.29404e-06
+Tempo di esecuzione Merge_Sort: 1.0959e-05
+Tempo di esecuzione Quick_Sort: 1.9944e-06
+Tempo di esecuzione std::sort(): 1.40141e-06
+
+Lunghezza del vettore di double: 42
+Tempo di esecuzione Bubble_Sort: 6.27547e-06
+Tempo di esecuzione Insertion_Sort: 9.4305e-07
+Tempo di esecuzione Selection_Sort: 2.81405e-06
+Tempo di esecuzione Merge_Sort: 4.54524e-06
+Tempo di esecuzione Quick_Sort: 1.4745e-06
+Tempo di esecuzione std::sort(): 1.31353e-06
+
+Lunghezza del vettore di double: 43
+Tempo di esecuzione Bubble_Sort: 7.43242e-06
+Tempo di esecuzione Insertion_Sort: 1.38245e-06
+Tempo di esecuzione Selection_Sort: 4.17372e-06
+Tempo di esecuzione Merge_Sort: 6.43894e-06
+Tempo di esecuzione Quick_Sort: 2.52839e-06
+Tempo di esecuzione std::sort(): 1.82369e-06
+
+Lunghezza del vettore di double: 44
+Tempo di esecuzione Bubble_Sort: 6.83874e-06
+Tempo di esecuzione Insertion_Sort: 8.8763e-07
+Tempo di esecuzione Selection_Sort: 3.24284e-06
+Tempo di esecuzione Merge_Sort: 4.30577e-06
+Tempo di esecuzione Quick_Sort: 1.49336e-06
+Tempo di esecuzione std::sort(): 1.65492e-06
+
+Lunghezza del vettore di double: 45
+Tempo di esecuzione Bubble_Sort: 5.885e-06
+Tempo di esecuzione Insertion_Sort: 1.43454e-06
+Tempo di esecuzione Selection_Sort: 2.50453e-06
+Tempo di esecuzione Merge_Sort: 3.93955e-06
+Tempo di esecuzione Quick_Sort: 1.46876e-06
+Tempo di esecuzione std::sort(): 1.36081e-06
+
+Lunghezza del vettore di double: 46
+Tempo di esecuzione Bubble_Sort: 1.96421e-05
+Tempo di esecuzione Insertion_Sort: 1.72572e-06
+Tempo di esecuzione Selection_Sort: 3.03339e-06
+Tempo di esecuzione Merge_Sort: 3.90713e-06
+Tempo di esecuzione Quick_Sort: 1.57081e-06
+Tempo di esecuzione std::sort(): 1.49302e-05
+
+Lunghezza del vettore di double: 47
+Tempo di esecuzione Bubble_Sort: 8.93197e-06
+Tempo di esecuzione Insertion_Sort: 1.05918e-06
+Tempo di esecuzione Selection_Sort: 3.74704e-06
+Tempo di esecuzione Merge_Sort: 5.84288e-06
+Tempo di esecuzione Quick_Sort: 3.46961e-06
+Tempo di esecuzione std::sort(): 2.05316e-06
+
+Lunghezza del vettore di double: 48
+Tempo di esecuzione Bubble_Sort: 9.40533e-06
+Tempo di esecuzione Insertion_Sort: 1.14239e-06
+Tempo di esecuzione Selection_Sort: 3.34055e-06
+Tempo di esecuzione Merge_Sort: 4.77104e-06
+Tempo di esecuzione Quick_Sort: 2.06738e-06
+Tempo di esecuzione std::sort(): 2.06537e-06
+
+Lunghezza del vettore di double: 49
+Tempo di esecuzione Bubble_Sort: 1.03294e-05
+Tempo di esecuzione Insertion_Sort: 1.40857e-06
+Tempo di esecuzione Selection_Sort: 3.86239e-06
+Tempo di esecuzione Merge_Sort: 6.57598e-06
+Tempo di esecuzione Quick_Sort: 1.93404e-06
+Tempo di esecuzione std::sort(): 1.66658e-06
+
+Lunghezza del vettore di double: 50
+Tempo di esecuzione Bubble_Sort: 8.53495e-06
+Tempo di esecuzione Insertion_Sort: 1.18139e-06
+Tempo di esecuzione Selection_Sort: 6.52806e-06
+Tempo di esecuzione Merge_Sort: 5.28983e-06
+Tempo di esecuzione Quick_Sort: 2.01792e-06
+Tempo di esecuzione std::sort(): 3.46329e-06
+
+Lunghezza del vettore di double: 51
+Tempo di esecuzione Bubble_Sort: 1.39954e-05
+Tempo di esecuzione Insertion_Sort: 1.85795e-06
+Tempo di esecuzione Selection_Sort: 4.84156e-06
+Tempo di esecuzione Merge_Sort: 5.53235e-06
+Tempo di esecuzione Quick_Sort: 1.22564e-05
+Tempo di esecuzione std::sort(): 5.88203e-06
+
+Lunghezza del vettore di double: 52
+Tempo di esecuzione Bubble_Sort: 1.04134e-05
+Tempo di esecuzione Insertion_Sort: 1.2725e-06
+Tempo di esecuzione Selection_Sort: 3.8669e-06
+Tempo di esecuzione Merge_Sort: 5.32612e-06
+Tempo di esecuzione Quick_Sort: 2.3785e-06
+Tempo di esecuzione std::sort(): 1.71539e-06
+
+Lunghezza del vettore di double: 53
+Tempo di esecuzione Bubble_Sort: 8.45939e-06
+Tempo di esecuzione Insertion_Sort: 1.27468e-06
+Tempo di esecuzione Selection_Sort: 4.70927e-06
+Tempo di esecuzione Merge_Sort: 4.57748e-06
+Tempo di esecuzione Quick_Sort: 1.9085e-06
+Tempo di esecuzione std::sort(): 1.81061e-06
+
+Lunghezza del vettore di double: 54
+Tempo di esecuzione Bubble_Sort: 1.14754e-05
+Tempo di esecuzione Insertion_Sort: 2.81423e-06
+Tempo di esecuzione Selection_Sort: 3.74662e-06
+Tempo di esecuzione Merge_Sort: 1.16778e-05
+Tempo di esecuzione Quick_Sort: 3.43372e-06
+Tempo di esecuzione std::sort(): 3.28982e-06
+
+Lunghezza del vettore di double: 55
+Tempo di esecuzione Bubble_Sort: 1.5016e-05
+Tempo di esecuzione Insertion_Sort: 1.32129e-06
+Tempo di esecuzione Selection_Sort: 4.62116e-06
+Tempo di esecuzione Merge_Sort: 5.71539e-06
+Tempo di esecuzione Quick_Sort: 1.9097e-06
+Tempo di esecuzione std::sort(): 1.74393e-06
+
+Lunghezza del vettore di double: 56
+Tempo di esecuzione Bubble_Sort: 3.09614e-05
+Tempo di esecuzione Insertion_Sort: 2.99989e-06
+Tempo di esecuzione Selection_Sort: 4.87877e-06
+Tempo di esecuzione Merge_Sort: 6.65331e-06
+Tempo di esecuzione Quick_Sort: 1.84631e-06
+Tempo di esecuzione std::sort(): 1.63214e-06
+
+Lunghezza del vettore di double: 57
+Tempo di esecuzione Bubble_Sort: 9.9925e-06
+Tempo di esecuzione Insertion_Sort: 1.3321e-06
+Tempo di esecuzione Selection_Sort: 4.08215e-06
+Tempo di esecuzione Merge_Sort: 4.37816e-06
+Tempo di esecuzione Quick_Sort: 1.76671e-06
+Tempo di esecuzione std::sort(): 1.58467e-06
+
+Lunghezza del vettore di double: 58
+Tempo di esecuzione Bubble_Sort: 1.13183e-05
+Tempo di esecuzione Insertion_Sort: 1.27551e-06
+Tempo di esecuzione Selection_Sort: 3.96579e-06
+Tempo di esecuzione Merge_Sort: 5.09539e-06
+Tempo di esecuzione Quick_Sort: 2.00364e-06
+Tempo di esecuzione std::sort(): 1.63824e-06
+
+Lunghezza del vettore di double: 59
+Tempo di esecuzione Bubble_Sort: 1.10586e-05
+Tempo di esecuzione Insertion_Sort: 1.45993e-06
+Tempo di esecuzione Selection_Sort: 4.55219e-06
+Tempo di esecuzione Merge_Sort: 4.62459e-06
+Tempo di esecuzione Quick_Sort: 4.83593e-06
+Tempo di esecuzione std::sort(): 2.41929e-06
+
+Lunghezza del vettore di double: 60
+Tempo di esecuzione Bubble_Sort: 1.60613e-05
+Tempo di esecuzione Insertion_Sort: 2.47088e-06
+Tempo di esecuzione Selection_Sort: 2.46734e-05
+Tempo di esecuzione Merge_Sort: 6.85906e-06
+Tempo di esecuzione Quick_Sort: 3.03889e-06
+Tempo di esecuzione std::sort(): 2.60922e-06
+
+Lunghezza del vettore di double: 61
+Tempo di esecuzione Bubble_Sort: 1.2691e-05
+Tempo di esecuzione Insertion_Sort: 1.67003e-06
+Tempo di esecuzione Selection_Sort: 5.21991e-06
+Tempo di esecuzione Merge_Sort: 6.43314e-06
+Tempo di esecuzione Quick_Sort: 2.50107e-06
+Tempo di esecuzione std::sort(): 2.11946e-06
+
+Lunghezza del vettore di double: 62
+Tempo di esecuzione Bubble_Sort: 1.34253e-05
+Tempo di esecuzione Insertion_Sort: 2.25581e-06
+Tempo di esecuzione Selection_Sort: 5.01373e-06
+Tempo di esecuzione Merge_Sort: 6.30517e-06
+Tempo di esecuzione Quick_Sort: 3.1493e-06
+Tempo di esecuzione std::sort(): 2.38446e-06
+
+Lunghezza del vettore di double: 63
+Tempo di esecuzione Bubble_Sort: 1.49492e-05
+Tempo di esecuzione Insertion_Sort: 1.71155e-06
+Tempo di esecuzione Selection_Sort: 6.02709e-05
+Tempo di esecuzione Merge_Sort: 2.90819e-05
+Tempo di esecuzione Quick_Sort: 3.32866e-06
+Tempo di esecuzione std::sort(): 2.57751e-06
+
+Lunghezza del vettore di double: 64
+Tempo di esecuzione Bubble_Sort: 1.65049e-05
+Tempo di esecuzione Insertion_Sort: 1.99227e-06
+Tempo di esecuzione Selection_Sort: 6.16337e-06
+Tempo di esecuzione Merge_Sort: 7.74711e-06
+Tempo di esecuzione Quick_Sort: 3.04777e-06
+Tempo di esecuzione std::sort(): 2.57361e-06
+
+Lunghezza del vettore di double: 65
+Tempo di esecuzione Bubble_Sort: 1.66262e-05
+Tempo di esecuzione Insertion_Sort: 1.94055e-06
+Tempo di esecuzione Selection_Sort: 5.51021e-06
+Tempo di esecuzione Merge_Sort: 7.26199e-06
+Tempo di esecuzione Quick_Sort: 3.04808e-06
+Tempo di esecuzione std::sort(): 2.54671e-06
+
+Lunghezza del vettore di double: 66
+Tempo di esecuzione Bubble_Sort: 1.62349e-05
+Tempo di esecuzione Insertion_Sort: 2.0092e-06
+Tempo di esecuzione Selection_Sort: 6.59802e-06
+Tempo di esecuzione Merge_Sort: 3.31075e-05
+Tempo di esecuzione Quick_Sort: 8.26108e-06
+Tempo di esecuzione std::sort(): 1.05209e-05
+
+Lunghezza del vettore di double: 67
+Tempo di esecuzione Bubble_Sort: 4.18933e-05
+Tempo di esecuzione Insertion_Sort: 2.0604e-06
+Tempo di esecuzione Selection_Sort: 7.97259e-06
+Tempo di esecuzione Merge_Sort: 8.22866e-06
+Tempo di esecuzione Quick_Sort: 3.60785e-06
+Tempo di esecuzione std::sort(): 2.74347e-06
+
+Lunghezza del vettore di double: 68
+Tempo di esecuzione Bubble_Sort: 1.82651e-05
+Tempo di esecuzione Insertion_Sort: 2.01582e-06
+Tempo di esecuzione Selection_Sort: 7.16218e-06
+Tempo di esecuzione Merge_Sort: 8.27879e-06
+Tempo di esecuzione Quick_Sort: 3.35807e-06
+Tempo di esecuzione std::sort(): 3.13247e-06
+
+Lunghezza del vettore di double: 69
+Tempo di esecuzione Bubble_Sort: 1.77168e-05
+Tempo di esecuzione Insertion_Sort: 2.26764e-06
+Tempo di esecuzione Selection_Sort: 8.64894e-06
+Tempo di esecuzione Merge_Sort: 4.62991e-05
+Tempo di esecuzione Quick_Sort: 3.20043e-06
+Tempo di esecuzione std::sort(): 3.41462e-06
+
+Lunghezza del vettore di double: 70
+Tempo di esecuzione Bubble_Sort: 2.51139e-05
+Tempo di esecuzione Insertion_Sort: 2.38367e-06
+Tempo di esecuzione Selection_Sort: 1.01042e-05
+Tempo di esecuzione Merge_Sort: 1.02894e-05
+Tempo di esecuzione Quick_Sort: 4.93852e-06
+Tempo di esecuzione std::sort(): 3.13897e-06
+
+Lunghezza del vettore di double: 71
+Tempo di esecuzione Bubble_Sort: 2.34215e-05
+Tempo di esecuzione Insertion_Sort: 2.69118e-06
+Tempo di esecuzione Selection_Sort: 7.17625e-06
+Tempo di esecuzione Merge_Sort: 8.69292e-06
+Tempo di esecuzione Quick_Sort: 4.89708e-06
+Tempo di esecuzione std::sort(): 5.50126e-06
+
+Lunghezza del vettore di double: 72
+Tempo di esecuzione Bubble_Sort: 2.53604e-05
+Tempo di esecuzione Insertion_Sort: 2.6148e-06
+Tempo di esecuzione Selection_Sort: 8.7327e-06
+Tempo di esecuzione Merge_Sort: 9.39492e-06
+Tempo di esecuzione Quick_Sort: 4.38261e-06
+Tempo di esecuzione std::sort(): 3.73212e-06
+
+Lunghezza del vettore di double: 73
+Tempo di esecuzione Bubble_Sort: 2.13106e-05
+Tempo di esecuzione Insertion_Sort: 2.68469e-06
+Tempo di esecuzione Selection_Sort: 8.39548e-06
+Tempo di esecuzione Merge_Sort: 1.19687e-05
+Tempo di esecuzione Quick_Sort: 3.86835e-06
+Tempo di esecuzione std::sort(): 3.28213e-06
+
+Lunghezza del vettore di double: 74
+Tempo di esecuzione Bubble_Sort: 0.000116175
+Tempo di esecuzione Insertion_Sort: 2.72791e-06
+Tempo di esecuzione Selection_Sort: 9.42687e-06
+Tempo di esecuzione Merge_Sort: 9.85097e-06
+Tempo di esecuzione Quick_Sort: 4.41868e-06
+Tempo di esecuzione std::sort(): 3.25197e-06
+
+Lunghezza del vettore di double: 75
+Tempo di esecuzione Bubble_Sort: 2.45744e-05
+Tempo di esecuzione Insertion_Sort: 3.07402e-06
+Tempo di esecuzione Selection_Sort: 9.56907e-06
+Tempo di esecuzione Merge_Sort: 9.72267e-06
+Tempo di esecuzione Quick_Sort: 3.99168e-06
+Tempo di esecuzione std::sort(): 6.36628e-06
+
+Lunghezza del vettore di double: 76
+Tempo di esecuzione Bubble_Sort: 2.31512e-05
+Tempo di esecuzione Insertion_Sort: 2.8425e-06
+Tempo di esecuzione Selection_Sort: 9.08534e-06
+Tempo di esecuzione Merge_Sort: 9.63881e-06
+Tempo di esecuzione Quick_Sort: 3.49185e-06
+Tempo di esecuzione std::sort(): 4.3206e-06
+
+Lunghezza del vettore di double: 77
+Tempo di esecuzione Bubble_Sort: 2.60495e-05
+Tempo di esecuzione Insertion_Sort: 2.92887e-06
+Tempo di esecuzione Selection_Sort: 9.91733e-06
+Tempo di esecuzione Merge_Sort: 1.45906e-05
+Tempo di esecuzione Quick_Sort: 1.31447e-05
+Tempo di esecuzione std::sort(): 3.71971e-06
+
+Lunghezza del vettore di double: 78
+Tempo di esecuzione Bubble_Sort: 2.58265e-05
+Tempo di esecuzione Insertion_Sort: 2.56489e-06
+Tempo di esecuzione Selection_Sort: 8.68736e-06
+Tempo di esecuzione Merge_Sort: 1.0377e-05
+Tempo di esecuzione Quick_Sort: 3.49466e-06
+Tempo di esecuzione std::sort(): 3.82477e-06
+
+Lunghezza del vettore di double: 79
+Tempo di esecuzione Bubble_Sort: 2.4106e-05
+Tempo di esecuzione Insertion_Sort: 2.65749e-06
+Tempo di esecuzione Selection_Sort: 7.34034e-06
+Tempo di esecuzione Merge_Sort: 8.98034e-06
+Tempo di esecuzione Quick_Sort: 5.06969e-06
+Tempo di esecuzione std::sort(): 4.79364e-06
+
+Lunghezza del vettore di double: 80
+Tempo di esecuzione Bubble_Sort: 2.58516e-05
+Tempo di esecuzione Insertion_Sort: 3.24597e-06
+Tempo di esecuzione Selection_Sort: 1.11512e-05
+Tempo di esecuzione Merge_Sort: 1.06563e-05
+Tempo di esecuzione Quick_Sort: 4.91574e-06
+Tempo di esecuzione std::sort(): 4.59225e-06
+
+Lunghezza del vettore di double: 81
+Tempo di esecuzione Bubble_Sort: 3.90934e-05
+Tempo di esecuzione Insertion_Sort: 3.6383e-06
+Tempo di esecuzione Selection_Sort: 9.41746e-06
+Tempo di esecuzione Merge_Sort: 1.0049e-05
+Tempo di esecuzione Quick_Sort: 4.51172e-06
+Tempo di esecuzione std::sort(): 3.72352e-06
+
+Lunghezza del vettore di double: 82
+Tempo di esecuzione Bubble_Sort: 5.06404e-05
+Tempo di esecuzione Insertion_Sort: 9.64568e-06
+Tempo di esecuzione Selection_Sort: 1.30788e-05
+Tempo di esecuzione Merge_Sort: 1.25773e-05
+Tempo di esecuzione Quick_Sort: 4.60063e-06
+Tempo di esecuzione std::sort(): 3.85977e-06
+
+Lunghezza del vettore di double: 83
+Tempo di esecuzione Bubble_Sort: 2.86229e-05
+Tempo di esecuzione Insertion_Sort: 3.28475e-06
+Tempo di esecuzione Selection_Sort: 1.02226e-05
+Tempo di esecuzione Merge_Sort: 4.08425e-05
+Tempo di esecuzione Quick_Sort: 4.76321e-06
+Tempo di esecuzione std::sort(): 4.64693e-06
+
+Lunghezza del vettore di double: 84
+Tempo di esecuzione Bubble_Sort: 3.63793e-05
+Tempo di esecuzione Insertion_Sort: 3.29259e-06
+Tempo di esecuzione Selection_Sort: 1.05163e-05
+Tempo di esecuzione Merge_Sort: 1.1389e-05
+Tempo di esecuzione Quick_Sort: 5.78063e-06
+Tempo di esecuzione std::sort(): 4.23849e-06
+
+Lunghezza del vettore di double: 85
+Tempo di esecuzione Bubble_Sort: 4.11921e-05
+Tempo di esecuzione Insertion_Sort: 8.31503e-06
+Tempo di esecuzione Selection_Sort: 9.6188e-06
+Tempo di esecuzione Merge_Sort: 1.06414e-05
+Tempo di esecuzione Quick_Sort: 4.00796e-06
+Tempo di esecuzione std::sort(): 3.6279e-06
+
+Lunghezza del vettore di double: 86
+Tempo di esecuzione Bubble_Sort: 4.62327e-05
+Tempo di esecuzione Insertion_Sort: 5.12376e-06
+Tempo di esecuzione Selection_Sort: 2.18878e-05
+Tempo di esecuzione Merge_Sort: 1.16395e-05
+Tempo di esecuzione Quick_Sort: 7.78352e-06
+Tempo di esecuzione std::sort(): 4.91404e-06
+
+Lunghezza del vettore di double: 87
+Tempo di esecuzione Bubble_Sort: 3.29254e-05
+Tempo di esecuzione Insertion_Sort: 3.74337e-06
+Tempo di esecuzione Selection_Sort: 1.21599e-05
+Tempo di esecuzione Merge_Sort: 1.19265e-05
+Tempo di esecuzione Quick_Sort: 5.43416e-06
+Tempo di esecuzione std::sort(): 4.64751e-06
+
+Lunghezza del vettore di double: 88
+Tempo di esecuzione Bubble_Sort: 8.63016e-05
+Tempo di esecuzione Insertion_Sort: 4.04832e-06
+Tempo di esecuzione Selection_Sort: 1.25671e-05
+Tempo di esecuzione Merge_Sort: 1.32852e-05
+Tempo di esecuzione Quick_Sort: 5.1506e-06
+Tempo di esecuzione std::sort(): 3.99022e-06
+
+Lunghezza del vettore di double: 89
+Tempo di esecuzione Bubble_Sort: 3.06224e-05
+Tempo di esecuzione Insertion_Sort: 3.15788e-06
+Tempo di esecuzione Selection_Sort: 1.5666e-05
+Tempo di esecuzione Merge_Sort: 1.86279e-05
+Tempo di esecuzione Quick_Sort: 7.21318e-06
+Tempo di esecuzione std::sort(): 5.58005e-06
+
+Lunghezza del vettore di double: 90
+Tempo di esecuzione Bubble_Sort: 3.19202e-05
+Tempo di esecuzione Insertion_Sort: 4.6345e-06
+Tempo di esecuzione Selection_Sort: 1.03984e-05
+Tempo di esecuzione Merge_Sort: 9.5946e-06
+Tempo di esecuzione Quick_Sort: 4.166e-06
+Tempo di esecuzione std::sort(): 3.81916e-06
+
+Lunghezza del vettore di double: 91
+Tempo di esecuzione Bubble_Sort: 3.06916e-05
+Tempo di esecuzione Insertion_Sort: 3.29028e-06
+Tempo di esecuzione Selection_Sort: 9.25424e-06
+Tempo di esecuzione Merge_Sort: 1.07369e-05
+Tempo di esecuzione Quick_Sort: 4.32201e-06
+Tempo di esecuzione std::sort(): 4.49297e-06
+
+Lunghezza del vettore di double: 92
+Tempo di esecuzione Bubble_Sort: 5.86142e-05
+Tempo di esecuzione Insertion_Sort: 3.71909e-06
+Tempo di esecuzione Selection_Sort: 1.2352e-05
+Tempo di esecuzione Merge_Sort: 9.18921e-06
+Tempo di esecuzione Quick_Sort: 4.24163e-06
+Tempo di esecuzione std::sort(): 4.1132e-06
+
+Lunghezza del vettore di double: 93
+Tempo di esecuzione Bubble_Sort: 3.6195e-05
+Tempo di esecuzione Insertion_Sort: 4.86122e-06
+Tempo di esecuzione Selection_Sort: 1.15846e-05
+Tempo di esecuzione Merge_Sort: 1.18873e-05
+Tempo di esecuzione Quick_Sort: 4.85756e-06
+Tempo di esecuzione std::sort(): 6.19703e-06
+
+Lunghezza del vettore di double: 94
+Tempo di esecuzione Bubble_Sort: 3.95234e-05
+Tempo di esecuzione Insertion_Sort: 3.73043e-06
+Tempo di esecuzione Selection_Sort: 1.01921e-05
+Tempo di esecuzione Merge_Sort: 1.0208e-05
+Tempo di esecuzione Quick_Sort: 4.38549e-06
+Tempo di esecuzione std::sort(): 3.91904e-06
+
+Lunghezza del vettore di double: 95
+Tempo di esecuzione Bubble_Sort: 3.52497e-05
+Tempo di esecuzione Insertion_Sort: 6.04384e-06
+Tempo di esecuzione Selection_Sort: 1.79861e-05
+Tempo di esecuzione Merge_Sort: 1.4542e-05
+Tempo di esecuzione Quick_Sort: 6.64875e-06
+Tempo di esecuzione std::sort(): 4.72278e-06
+
+Lunghezza del vettore di double: 96
+Tempo di esecuzione Bubble_Sort: 3.48455e-05
+Tempo di esecuzione Insertion_Sort: 3.44877e-06
+Tempo di esecuzione Selection_Sort: 1.10139e-05
+Tempo di esecuzione Merge_Sort: 1.13777e-05
+Tempo di esecuzione Quick_Sort: 4.46907e-06
+Tempo di esecuzione std::sort(): 4.51109e-06
+
+Lunghezza del vettore di double: 97
+Tempo di esecuzione Bubble_Sort: 3.44062e-05
+Tempo di esecuzione Insertion_Sort: 3.46217e-06
+Tempo di esecuzione Selection_Sort: 1.02403e-05
+Tempo di esecuzione Merge_Sort: 3.68431e-05
+Tempo di esecuzione Quick_Sort: 5.3085e-06
+Tempo di esecuzione std::sort(): 4.60623e-06
+
+Lunghezza del vettore di double: 98
+Tempo di esecuzione Bubble_Sort: 3.50831e-05
+Tempo di esecuzione Insertion_Sort: 3.46261e-06
+Tempo di esecuzione Selection_Sort: 1.08256e-05
+Tempo di esecuzione Merge_Sort: 1.00463e-05
+Tempo di esecuzione Quick_Sort: 4.75419e-06
+Tempo di esecuzione std::sort(): 4.70953e-06
+
+Lunghezza del vettore di double: 99
+Tempo di esecuzione Bubble_Sort: 3.66619e-05
+Tempo di esecuzione Insertion_Sort: 3.57069e-06
+Tempo di esecuzione Selection_Sort: 1.43888e-05
+Tempo di esecuzione Merge_Sort: 1.47666e-05
+Tempo di esecuzione Quick_Sort: 5.74744e-06
+Tempo di esecuzione std::sort(): 5.36306e-06
